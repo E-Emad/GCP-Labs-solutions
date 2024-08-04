@@ -1,2 +1,2 @@
-# GCP-Cloud-Digital-Leader-Learning-Path
-Cloud Digital Leader Learning Path
+# GCP-Labs-solutions
+GCP-Labs-solutions
